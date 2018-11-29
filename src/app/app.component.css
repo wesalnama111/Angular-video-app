@@ -20,12 +20,11 @@
 }
 
 .custom-container{
-    width: 1366px;
-    max-width: 1366px;
+    width: 1349px;
+    max-width: 1349px;
     margin: 0 auto;
-    min-width: 1366px;
+    min-width: 1349px;
     padding: 0px 17px 0px 0px;
-
 }
 
 .paddy{
@@ -43,7 +42,7 @@
 }
 .button-greend{
     position: absolute;
-    left: 32%;
+    left: 41%;
     right: 0px;
     top: 28%;
     font-size: 15px;
@@ -53,7 +52,8 @@
 
 .inside-disables{
     background-color: #f8f8f8;
-    cursor: not-allowed;
+
+    height: 150px;
 }
 
 
@@ -174,12 +174,12 @@ vg-player{
     border-radius: 3px;
 }
 .start-show1{
-    padding: 0px 18px 0px 8px;
+    padding: 0px 18px 0px 1px;
     letter-spacing: 1px;
     font-size: 10px;
 }
 .end-show1{
-    padding: 0px 18px 0px 32px;
+    padding: 0px 18px 0px 0px;
     letter-spacing: 1px;
     font-size: 10px;
 
